@@ -26,3 +26,4 @@ data/augmented/
 # Logs
 *.log
 /tmp/
+revise_manuscript.py
