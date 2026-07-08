@@ -1,0 +1,5 @@
+Endpoint,Paper_Model,Paper_R2_test,Paper_RMSE,Paper_MAE,Ours_R2_train,Ours_R2_test,Ours_RMSE_test,Ours_MAE_test,Delta_R2_test,Delta_MAE_test
+LogS,LightGBM,0.84,0.88,0.59,0.9668,0.8401,0.9269,0.5898,0.0001,-0.0002
+LogP,AttentiveFP,0.96,0.36,0.25,0.9871,0.9438,0.4466,0.3037,-0.0162,0.0537
+LogD,AttentiveFP,0.76,0.6,0.43,0.9951,0.7425,0.5187,0.384,-0.0175,-0.046
+LogPapp,XGBoost,0.71,0.42,0.33,0.9915,0.718,0.4003,0.3006,0.008,-0.0294

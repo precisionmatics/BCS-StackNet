@@ -1,0 +1,2 @@
+Endpoint,Paper_Model,Paper_R2_test,Paper_RMSE,Paper_MAE,Ours_R2_train,Ours_R2_test,Ours_RMSE_test,Ours_MAE_test,Delta_R2_test,Delta_MAE_test,N_train,Features
+LogPapp_fix,XGBoost,0.71,0.42,0.33,0.9805,0.747,0.3791,0.2861,0.037,-0.0439,2280,morgan+rdkit

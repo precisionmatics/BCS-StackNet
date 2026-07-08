@@ -1,0 +1,7 @@
+Strategy,N,Metric,Score,Paper
+"Two-Step (predicted log S, no dose data)",202,Accuracy,0.4703,0.777 (with dose data)
+Two-Step F1-macro,202,F1-macro,0.4375,—
+Direct Stacking (5-fold CV),202,Accuracy,0.5050,—
+Direct Stacking F1-macro,202,F1-macro,0.4683,—
+Multi-Label (all drugs),292,Exact Match,0.3390,N/A
+Multi-Label Jaccard,292,Jaccard,0.4859,N/A

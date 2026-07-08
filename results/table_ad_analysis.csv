@@ -1,0 +1,293 @@
+Drug,BCS_class,Tanimoto_sim,In_domain
+Estradiol,1,1.0,True
+Atropine,1,1.0,True
+Norgestimate,1,0.58208954,False
+Clonidine Hydrochloride,1,1.0,True
+Norethindrone,1,1.0,True
+Norgestrel,1,1.0,True
+Anastrozole,1,1.0,True
+Indapamide,1,1.0,True
+Alprazolam,1,1.0,True
+Lorazepam,1,1.0,True
+Chlorpheniramine,1,1.0,True
+Amiloride,1,0.5135135,False
+Desloratadine,1,0.48979592,False
+Olopatadine Hydrochloride,1,0.66,False
+Guanfacine,1,0.47368422,False
+Rosiglitazone Maleate,1,0.5,False
+Bisoprolol Fumarate,1,1.0,True
+Donepezil Hydrochloride,1,0.4057971,False
+Ramipril,1,1.0,True
+Zolpidem Tartrate,1,1.0,True
+Amlodipine,1,0.74603176,False
+Cetirizine,1,1.0,True
+Cyclobenzaprine,1,1.0,True
+Memantine,1,0.45454547,False
+Prednisolone,1,1.0,True
+Primaquine,1,1.0,True
+Diazepam,1,1.0,True
+Escitalopram Oxalate,1,1.0,True
+Fluoxetine Hydrochloride,1,1.0,True
+Vitamin B6,1,1.0,True
+Buspirone,1,1.0,True
+Doxycycline Hyclate,1,0.93333334,False
+Stavudine,1,0.5416667,False
+Mirtazapine,1,0.6511628,False
+Cyclophosphamide,1,1.0,True
+Prednisone,1,1.0,True
+Tramadol,1,1.0,True
+Phenobarbital,1,1.0,True
+Atomoxetine Hydrochloride,1,0.54545456,False
+Nortriptyline,1,1.0,True
+Diphenhydramine,1,1.0,True
+Propranolol Hydrochloride,1,1.0,True
+Benznidazole,1,1.0,True
+Diethylcarbamazine Citrate,1,1.0,True
+Proguanil,1,1.0,True
+Vitamin B2,1,1.0,True
+Meperidine,1,1.0,True
+Metoprolol Tartrate,1,1.0,True
+Venlafaxine Hydrochloride,1,1.0,True
+Bupropion,1,0.4722222,False
+Doxepin,1,1.0,True
+Methionine,1,1.0,True
+Emtricitabine,1,0.41666666,False
+Ethosuximide,1,1.0,True
+Mexiletine,1,1.0,True
+Zidovudine,1,1.0,True
+Pregabalin,1,0.5,False
+Fluconazole,1,1.0,True
+Chloroquine,1,1.0,True
+Metronidazole,1,1.0,True
+Penicillin V,1,1.0,True
+Flucytosine,1,0.4,False
+Theophylline Anhydrous,1,1.0,True
+Niacinamide,1,1.0,True
+Procainamide Hydrochloride,1,1.0,True
+Lactulose,2,1.0,True
+Budesonide,2,1.0,True
+Glimepiride,2,0.47368422,False
+Risperidone,2,1.0,True
+Triamcinolone,2,1.0,True
+Betamethasone,2,1.0,True
+Tacrolimus,2,0.1986755,False
+Ezetimibe,2,0.3125,False
+Felodipine,2,1.0,True
+Loratadine,2,0.49122807,False
+Nifedipine,2,1.0,True
+Piroxicam,2,1.0,True
+Indomethacin,2,1.0,True
+Prochlorperazine,2,1.0,True
+Aripiprazole,2,0.36708862,False
+Lansoprazole,2,0.4814815,False
+Temazepam,2,1.0,True
+Candesartan Cilexetil,2,0.5,False
+Lovastatin,2,1.0,True
+Olanzapine,2,0.537037,False
+Omeprazole,2,1.0,True
+Pioglitazone Hydrochloride,2,0.5263158,False
+Amprenavir,2,0.29850745,False
+Clotrimazole,2,1.0,True
+Diclofenac Sodium,2,1.0,True
+Meclizine,2,1.0,True
+Simvastatin,2,1.0,True
+Telmisartan,2,0.3678161,False
+Ziprasidone Hydrochloride,2,0.45762712,False
+Atorvastatin,2,0.2923077,False
+Nitrofurantoin,2,1.0,True
+Triamterene,2,1.0,True
+Hydroxyzine,2,1.0,True
+Duloxetine,2,0.38,False
+Fenofibrate,2,1.0,True
+Rifabutin,2,0.55454546,False
+Nevirapine,2,1.0,True
+Celecoxib,2,1.0,True
+Ketoconazole,2,1.0,True
+Lamotrigine,2,0.46666667,False
+Primidone,2,1.0,True
+Phenytoin Sodium,2,1.0,True
+Clopidogrel Bisulfate,2,0.31034482,False
+Irbesartan,2,0.5138889,False
+Quetiapine Fumarate,2,0.4827586,False
+Carbamazepine,2,1.0,True
+Loracarbef,2,0.66071427,False
+Iopanoic Acid,2,1.0,True
+Mycophenolate Mofetil,2,0.65625,False
+Tipranavir,2,0.24719101,False
+Praziquantel,2,1.0,True
+Rifampin,2,0.6486486,False
+Etodolac,2,1.0,True
+Felbamate,2,1.0,True
+Gemfibrozil,2,1.0,True
+Oxaprozin,2,1.0,True
+Hydroxychloroquine,2,1.0,True
+Mycophenolic Acid,2,1.0,True
+Atovaquone,2,1.0,True
+Naproxen,2,1.0,True
+Ibuprofen,2,1.0,True
+Sulfamethoxazole,2,1.0,True
+Metaxalone,2,1.0,True
+Nalidixic Acid,2,1.0,True
+Fosamprenavir,2,0.27027026,False
+Ergonovine,3,0.8064516,False
+Reserpine,3,1.0,True
+Colchicine,3,1.0,True
+Vitamin D2,3,1.0,True
+Biperiden,3,1.0,True
+Ergotamine Tartrate,3,1.0,True
+Naloxone,3,1.0,True
+Levocetirizine,3,1.0,True
+Thyroxine,3,0.7804878,False
+Ondansetron Hydrochloride,3,0.3137255,False
+Amlodipine Besylate,3,0.6619718,False
+Minoxidil,3,1.0,True
+Neostigmine Methylsulfate,3,1.0,True
+Methotrexate,3,1.0,True
+Pyridostigmine Bromide,3,1.0,True
+Famotidine,3,1.0,True
+Lisinopril,3,1.0,True
+Hydrochlorothiazide,3,1.0,True
+Propylthiouracil,3,1.0,True
+Alendronate Sodium,3,0.3448276,False
+Oseltamivir Phosphate,3,0.29310346,False
+Nadolol,3,1.0,True
+Pravastatin Sodium,3,1.0,True
+Atenolol,3,1.0,True
+Hydralazine Hydrochloride,3,1.0,True
+Sumatriptan Succinate,3,0.8541667,False
+Hydralazine,3,1.0,True
+Pseudoephedrine,3,1.0,True
+Risedronate Sodium,3,0.43243244,False
+Benzonatate,3,1.0,True
+Ribavirin,3,1.0,True
+Topiramate,3,0.33333334,False
+Chloramphenicol,3,1.0,True
+Didanosine,3,1.0,True
+Penicillamine,3,1.0,True
+Abacavir Sulfate,3,0.6862745,False
+Allopurinol,3,1.0,True
+Ranitidine Hydrochloride,3,1.0,True
+Ethambutol Hydrochloride,3,1.0,True
+Valganciclovir,3,0.7222222,False
+Erythromycin,3,1.0,True
+Amoxicillin Trihydrate,3,1.0,True
+Methyldopa,3,1.0,True
+Vitamin B1,3,1.0,True
+Cefaclor,3,1.0,True
+Cefprozil,3,1.0,True
+Acyclovir Sodium,3,0.6,False
+Cimetidine,3,1.0,True
+Gabapentin,3,1.0,True
+Metformin,3,0.47368422,False
+Acetaminophen,3,1.0,True
+Cloxacillin,3,0.85714287,False
+Erythromycin Lactobionate,3,0.7425743,False
+Metformin Hydrochloride,3,1.0,True
+Vitamin C,3,1.0,True
+Cefadroxil,3,1.0,True
+Loperamide,4,1.0,True
+Glipizide,4,1.0,True
+Triamcinolone Acetonide,4,1.0,True
+Chlorthalidone,4,1.0,True
+Etoposide,4,1.0,True
+Mercaptopurine,4,1.0,True
+Azathioprine,4,1.0,True
+Furosemide,4,1.0,True
+Cefdinir,4,0.7941176,False
+Acetazolamide,4,1.0,True
+Saquinavir Methanesulfonate,4,0.34166667,False
+Cefixime,4,1.0,True
+Clarithromycin,4,1.0,True
+Linezolid,4,0.38709676,False
+Nelfinavir,4,0.29,False
+Cephalexin,4,1.0,True
+Mesalamine,4,1.0,True
+Chlorothiazide,4,0.6511628,False
+Digoxin,1,1.0,True
+Flecainide,1,0.3243243,False
+Warfarin,1,1.0,True
+Amitriptyline Hydrochloride,1,1.0,True
+Imipramine,1,1.0,True
+Verapamil Hydrochloride,1,1.0,True
+Sertraline Hydrochloride,1,1.0,True
+Finasteride,1,1.0,True
+Montelukast Sodium,1,0.22916667,False
+Doxazosin Mesylate,1,1.0,True
+Terbinafine Hydrochloride,1,1.0,True
+Valproic Acid,1,1.0,True
+Fosinopril,1,0.4,False
+Promethazine Hydrochloride,1,1.0,True
+Carbidopa,1,1.0,True
+Levodopa,1,1.0,True
+Isoniazid,1,1.0,True
+Albuterol Sulfate,1,1.0,True
+Pyrazinamide,1,1.0,True
+Atropine Sulfate,1,1.0,True
+Nitroglycerin,1,1.0,True
+Ethinylestradiol,1,1.0,True
+Codeine Monohydrate,1,1.0,True
+Codeine,1,1.0,True
+Caffeine,1,1.0,True
+Captopril,1,1.0,True
+Levetiracetam,1,0.5,False
+Niacin,1,1.0,True
+Chlorpheniramine Maleate,1,1.0,True
+Dexamethasone,1,1.0,True
+Metoclopramide Hydrochloride,1,1.0,True
+Amoxicillin,1,1.0,True
+Morphine Hydrochloride,1,1.0,True
+Cetirizine Hydrochloride,1,1.0,True
+Morphine,1,1.0,True
+Fexofenadine,1,0.8039216,False
+Losartan Potassium,1,1.0,True
+Clindamycin,1,1.0,True
+Isosorbide Dinitrate,1,1.0,True
+Clomiphene Citrate,1,1.0,True
+Levamisole,1,1.0,True
+Acetylsalicylic Acid,1,1.0,True
+Doxycycline,1,1.0,True
+Levofloxacin,1,1.0,True
+Clomipramine,1,1.0,True
+Quinine Bisulfate Heptahydrate,1,1.0,True
+Lamivudine,1,0.61702126,False
+Clavulanic Acid,1,1.0,True
+Methylprednisolone,2,1.0,True
+Dapsone,2,1.0,True
+Indinavir Sulfate,2,0.30081302,False
+Trimethoprim,2,1.0,True
+Ritonavir,2,0.3119266,False
+Griseofulvin,2,1.0,True
+Azithromycin,2,1.0,True
+Dutasteride,2,0.6376812,False
+Isradipine,2,0.46666667,False
+Dronabinol,2,1.0,True
+Dicyclomine Hydrochloride,2,1.0,True
+Carisoprodol,2,1.0,True
+Nabumetone,2,1.0,True
+Ivermectin,2,0.69298244,False
+Glyburide,2,1.0,True
+Haloperidol,2,1.0,True
+Clofazimine,2,1.0,True
+Mebendazole,2,0.8181818,False
+Vitamin A,2,1.0,True
+Pyrantel Pamoate,2,1.0,True
+Albendazole,2,1.0,True
+Chlorpromazine Hydrochloride,2,1.0,True
+Lopinavir,2,0.41935483,False
+Mefloquine,2,0.32258064,False
+Triclabendazole,2,0.4883721,False
+Diloxanide Furoate,2,0.5,False
+Niclosamide,2,1.0,True
+Sulfadiazine,2,1.0,True
+Calcitriol,2,1.0,True
+Modafinil,2,0.45714286,False
+Progesterone,2,1.0,True
+Oxcarbazepine,2,0.61764705,False
+Sulfasalazine,2,1.0,True
+Meloxicam,2,1.0,True
+Tadalafil,2,0.28235295,False
+Efavirenz,2,0.3114754,False
+Erythromycin Stearate,3,0.86206895,False
+Ciprofloxacin,3,1.0,True
+Nystatin,3,0.87058824,False
+Acyclovir,3,1.0,True

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Large model files
+saved_models/
+cache/
+
+# Data (large raw files)
+data/augmented/
+
+# OS
+.DS_Store
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+/tmp/
