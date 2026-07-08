@@ -20,6 +20,9 @@ data/augmented/
 # Jupyter
 .ipynb_checkpoints/
 
+# Manuscript files (kept local only)
+*.docx
+
 # Logs
 *.log
 /tmp/
